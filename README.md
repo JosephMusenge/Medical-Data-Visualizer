@@ -98,7 +98,3 @@ The Medical Data Visualizer project utilizes the following technologies:
 - Pandas: A powerful library for data manipulation and analysis.
 - Matplotlib: A plotting library for creating visualizations in Python.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this code as per the terms of the license.
-
